@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <path d="M16,160h16v-64h32v-32h32V32h64V0h192V32h64v32h32v32h32v64h32v192h-32v64h-32v32h-32v32h-64v32h-192v-32h-64v-32h-32v-32h-32v-64H0v-192h16ZM208,160h16v32h32v32h32v64h-32v32h-32v32h-32v64h64v-32h32v-32h32v-32h32v-32h32v-64h-32v-32h-32v-32h-32v-32h-32v-32h-64v64h16Z"/>
+</svg>
